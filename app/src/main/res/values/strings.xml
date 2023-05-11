@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SparkWomen</string>
+
+    <array name="lawsBig">
+
+        <item>Tunisian women have the right to marry and choose their own spouse.
+            The minimum age for marriage is 18 for both men and women.
+            Previously, the PSC allowed girls as young as 15 to marry with the
+            permission of their male guardian, but this provision was repealed in 2017.
+        </item>
+
+        <item>Tunisian women have the right to divorce their husbands under certain conditions, such as abuse or neglect. A woman may also seek divorce if her
+            husband is absent for a long period of time or has abandoned the family.
+        </item>
+        <item>
+            Tunisian women have the right to custody of their children in the event of divorce or the death of their husband. However, if the mother remarries,
+            custody may be transferred to the new husband if he agrees to take on this responsibility.
+        </item>
+        <item>Tunisian women have the right to inherit property from their parents and spouse. In 2018,
+            Tunisia became the first country in the Arab world to enact a law that guarantees equal inheritance rights for men and women.
+        </item>
+        <item>Tunisian women have the right to work and receive equal pay for equal work. Discrimination based on gender is prohibited by law. The Tunisian
+            Labor Code also provides for maternity leave and breastfeeding breaks.
+        </item>
+        <item>Tunisian women have the right to access education and receive equal opportunities for education and training. The literacy
+            rate for women in Tunisia is relatively high compared to other countries in the region.
+        </item>
+        <item>Tunisian women have the right to participate in politics and run for elected office. The country
+            has a quota system that reserves a certain percentage of seats in parliament for women.
+        </item>
+        <item>Tunisian women have the right to access reproductive health services, including family planning and safe abortion. The government provides
+            free or subsidized contraceptives and has established clinics that offer safe abortion services.
+        </item>
+        <item>Tunisian women have the right to protection from gender-based violence, including sexual harassment and domestic violence.
+            The law criminalizes such acts and provides for legal remedies and support services for victims.
+        </item>
+        <item>Tunisian women have the right to freedom of expression and association, including the right to form and join organizations and express their opinions freely.
+            Tunisia is known for its relatively liberal political and social climate, although some restrictions on freedom of expression remain.
+        </item>
+    </array>
+</resources>
